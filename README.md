@@ -4,7 +4,7 @@ Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack M
 
 By the end of this video, you will have a strong understanding of how the MERN Stack works.
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+
 
 Setup:
 
